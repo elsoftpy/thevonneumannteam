@@ -10,11 +10,11 @@
 
         <!-- OG Meta Tags to improve the way the post looks when you share the page on Facebook, Twitter, LinkedIn -->
         <meta property="og:site_name" content="The Von Neumann Team" /> <!-- website name -->
-        <meta property="og:site" content="http://thevonneumannteam.elsoft.com.py" /> <!-- website link -->
+        <meta property="og:site" content="https://thevonneumannteam.elsoft.com.py" /> <!-- website link -->
         <meta property="og:title" content="The Von Neumann Team"/> <!-- title shown in the actual shared post -->
         <meta property="og:description" content="Equipo de la Jornada de Extensión Universitaria de Mantenimiento Preventivo y Correctivo de la UNIDA - 11/2021" /> <!-- description shown in the actual shared post -->
         <meta property="og:image" content="{{ asset('images/logocompacto.jpg') }}" /> <!-- image link, make sure it's jpg -->
-        <meta property="og:url" content="http://thevonneumannteam.elsoft.com.py" /> <!-- where do you want your post to link to -->
+        <meta property="og:url" content="https://thevonneumannteam.elsoft.com.py" /> <!-- where do you want your post to link to -->
         <meta name="twitter:card" content="summary_large_image"> <!-- to have large image post format in Twitter -->
 
         <!-- Webpage Title -->
