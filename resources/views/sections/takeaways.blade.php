@@ -14,8 +14,8 @@
                                     <i class="fas fa-graduation-cap"></i>
                                 </div> <!-- end of takeaway-icon -->
                                 <div class="takeaway-text">
-                                    <h5>Carreras Acreditadas por el CONES</h5>
-                                    La UNIDA cuenta con una gran variedad de carreras acreditadas por el CONES, entre ellas las de la Facultad de Ingeniería
+                                    <h5>Carreras Acreditadas por la ANEAES</h5>
+                                    La UNIDA cuenta con una gran variedad de carreras acreditadas por la ANEAES, entre ellas las de la Facultad de Ingeniería
                                 </div> <!-- end of takeaway-text -->
                             </div> <!-- end of takeaway-container -->
                         </div> <!-- end of takeaway-wrapper -->
