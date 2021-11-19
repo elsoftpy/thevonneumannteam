@@ -1,4 +1,4 @@
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/elsoftpy/thevonneumann/
+    - export DEPLOYPATH=/home/elsoftpy/thevonneumannteam/
     - /bin/cp -R * $DEPLOYPATH
