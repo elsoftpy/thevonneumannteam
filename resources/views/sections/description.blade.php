@@ -6,7 +6,6 @@
                 <div class="text-container">
                     <h2>Datos del Evento</h2>
                     <p>Organizado por la Facultad de Ingeniería, con la participación de estudiantes de las carreras de Ingeniería Informática e Ingeniería en Sistemas</p>
-                    <p>He started multiple blogs on different subjects and most of them had a resounding success with millions of readers everywhere</p>
                     <ul class="list-unstyled li-space-lg">
                         <li class="media">
                             <i class="fas fa-square text-danger"></i>
