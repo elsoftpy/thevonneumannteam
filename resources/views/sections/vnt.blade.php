@@ -68,6 +68,30 @@
                                         </div>
                                     </div> <!-- end of swiper-slide -->
                                     <!-- end of slide -->
+
+                                    <!-- Slide -->
+                                    <div class="swiper-slide">
+                                        <div class="card">
+                                            <img class="card-image" src="{{ asset('images/alvaro.png') }}" alt="alternative">
+                                            <div class="card-body">
+                                                <p class="testimonial-text">Mantenimiento Preventivo y Correctivo - Hardware</p>
+                                                <p class="testimonial-author">Alvaro Alfonso</p>
+                                            </div>
+                                        </div>
+                                    </div> <!-- end of swiper-slide -->
+                                    <!-- end of slide -->
+
+                                    <!-- Slide -->
+                                    <div class="swiper-slide">
+                                        <div class="card">
+                                            <img class="card-image" src="{{ asset('images/luis.png') }}" alt="alternative">
+                                            <div class="card-body">
+                                                <p class="testimonial-text">Recepción - Atención al Cliente</p>
+                                                <p class="testimonial-author">Luis Mayeregger</p>
+                                            </div>
+                                        </div>
+                                    </div> <!-- end of swiper-slide -->
+                                    <!-- end of slide -->
                                 
                                 </div> <!-- end of swiper-wrapper -->
             

@@ -65,14 +65,14 @@
                 <div class="row">
                     <div class="col-lg-6">
                         <ul class="list-unstyled li-space-lg p-small">
-                            <li><a href="article.html">Details</a></li>
+{{--                             <li><a href="article.html">Details</a></li>
                             <li><a href="terms.html">Terms</a></li>
                             <li><a href="privacy.html">Privacy</a></li>
-                            <li><a href="contact.html">Contact</a></li>
+ --}}                        
                         </ul>
                     </div> <!-- end of col -->
                     <div class="col-lg-6">
-                        <p class="p-small statement">Copyright © <a href="#your-link">Name</a></p>
+                        <p class="p-small statement">Copyright © <a href="https://thevonneumannteam.elsoft.com.py">The Von Neumann Team - 2021</a></p>
                     </div> <!-- end of col -->
                 </div> <!-- enf of row -->
             </div> <!-- end of container -->

@@ -4,7 +4,7 @@
         <div class="row">
             <div class="col-lg-6">
                 <div class="image-container">
-                    <img class="img-fluid" src="{{ asset('images/headerpic.png') }}" alt="alternative">
+                    <img class="img-fluid" src="{{ asset('images/zeropaper.png') }}" alt="alternative">
                 </div> <!-- end of image-container -->
             </div> <!-- end of div -->
             <div class="col-lg-6">
@@ -14,6 +14,7 @@
                     <p class="p-large">Dirigida a los estudiantes, docentes de la <strong>UNIDA</strong> y a la comunidad en general en el marco de <strong>Extensión Universitaria y Responsabilidad Social</strong></p>
                     
                     <!-- Registration Form -->
+                    <!--
                     <div class="form-container">
                         <form id="registrationForm">
                             <div class="form-group">
@@ -24,7 +25,8 @@
                                 <button type="submit" class="form-control-submit-button">Free Download</button>
                             </div>
                         </form>
-                    </div> <!-- end of form-container -->
+                    </div> -->
+                    <!-- end of form-container -->
                     <!-- end of registration form -->
 
                 </div> <!-- end of text-container -->
